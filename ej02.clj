@@ -1,0 +1,1 @@
+(defn segundos[a b c d](+ d (* 60 (+ c (* 60 (+ b (* 24 a)) )) )))
